@@ -1,0 +1,4 @@
+Part Number,Value,Power,Tolerance,Composition,Package,Manufacturer,MPN,Description,Library Ref,Library Path,Footprint Ref,Footprint Path
+RES-0001,10k,100mW,1%,Thick Film,0603,Yageo,RC0603FR-0710KL,RES 10K OHM 1% 1/10W 0603,Resistor,symbols\Resistor.SchLib,R_0603,footprints\R_0603.PcbLib
+RES-0002,1k,100mW,1%,Thick Film,0603,Yageo,RC0603FR-071KL,RES 1K OHM 1% 1/10W 0603,Resistor,symbols\Resistor.SchLib,R_0603,footprints\R_0603.PcbLib
+RES-0003,100R,100mW,1%,Thick Film,0603,Yageo,RC0603FR-07100RL,RES 100 OHM 1% 1/10W 0603,Resistor,symbols\Resistor.SchLib,R_0603,footprints\R_0603.PcbLib

@@ -1,0 +1,4 @@
+Part Number,Value,Voltage,Dielectric,Tolerance,Package,Manufacturer,MPN,Description,Library Ref,Library Path,Footprint Ref,Footprint Path
+CAP-0001,10uF,10V,X5R,10%,0603,Samsung,CL10A106KP8NNNC,CAP CER 10UF 10V X5R 0603,Capacitor,symbols\Capacitor.SchLib,C_0603,footprints\C_0603.PcbLib
+CAP-0002,100nF,50V,X7R,10%,0603,KEMET,C0603C104K5RACTU,CAP CER 0.1UF 50V X7R 0603,Capacitor,symbols\Capacitor.SchLib,C_0603,footprints\C_0603.PcbLib
+CAP-0003,1uF,16V,X7R,10%,0603,Samsung,CL10B105KO8NNNC,CAP CER 1UF 16V X7R 0603,Capacitor,symbols\Capacitor.SchLib,C_0603,footprints\C_0603.PcbLib
